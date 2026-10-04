@@ -6,7 +6,7 @@ Console application that registers individual and corporate bank clients, writte
 |---|---|
 | **Author** | Tiago Rodrigues · Universidade Tecnológica Federal do Paraná (UTFPR) |
 | **Date** | 2026-06-01 |
-| **Context** | Postgraduate Program in Java Technologies, UTFPR Londrina (Java I) |
+| **Context** | Postgraduate Program in Java Technologies, UTFPR (Java I) |
 | **Stack** | Java |
 | **Other languages** | [Português](README.pt.md) · [Deutsch](README.de.md) |
 
