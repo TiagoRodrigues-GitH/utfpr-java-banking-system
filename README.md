@@ -1,7 +1,16 @@
+# Banking System in Java
 
-# 🏦 Java Banking System - OOP
+Console application that registers individual and corporate bank clients, written to practise the pillars of object-oriented programming: inheritance, polymorphism, encapsulation and exception handling.
 
-This project was developed as an academic exercise to apply the pillars of **Object-Oriented Programming**: **Inheritance**, **Polymorphism**, **Encapsulation**, and **Exception Handling**.
+| | |
+|---|---|
+| **Author** | Tiago Rodrigues · Universidade Tecnológica Federal do Paraná (UTFPR) |
+| **Date** | 2026-06-01 |
+| **Context** | Postgraduate Program in Java Technologies, UTFPR Londrina (Java I) |
+| **Stack** | Java |
+| **Other languages** | [Português](README.pt.md) · [Deutsch](README.de.md) |
+
+> **Resumo (PT).** Sistema bancário em Java para clientes pessoa física e jurídica; exercício de herança, polimorfismo, encapsulamento e exceções personalizadas.
 
 ## 🧱 Project Structure
 
@@ -26,10 +35,7 @@ This project was developed as an academic exercise to apply the pillars of **Obj
 
 ## ▶️ How to run
 
-1. Compile all `.java` files:
-   ```bash
-   javac *.java
-
-2. Run
-   ```bash
-   java TstConta
+```bash
+javac *.java
+java TstConta
+```
